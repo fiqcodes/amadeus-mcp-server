@@ -1,7 +1,6 @@
 # Amadeus MCP Server
 
 [![npm version](https://badge.fury.io/js/amadeus-mcp-server.svg)](https://www.npmjs.com/package/amadeus-mcp-server)
-[![npm downloads](https://img.shields.io/npm/dm/amadeus-mcp-server.svg)](https://www.npmjs.com/package/amadeus-mcp-server)
 
 A Model Context Protocol (MCP) server that provides access to Amadeus Travel API functionality, including flights, hotels, tours, and city information with automatic USD currency conversion.
 
@@ -274,17 +273,7 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 
 ## License
 
-MIT
-
-## Support
-
-For issues and questions:
-- GitHub Issues: [https://github.com/fiqcodes/amadeus-mcp-server/issues](https://github.com/fiqcodes/amadeus-mcp-server/issues)
-- Amadeus Support: [https://developers.amadeus.com/support](https://developers.amadeus.com/support)
-
-## Author
-
-Created by [fiqcodes](https://github.com/fiqcodes)
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ---
 
